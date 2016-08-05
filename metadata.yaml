@@ -1,0 +1,45 @@
+_repo: The-Poetical-Works-of-Beattie-Blair-and-Falconer--13-With-Lives-Critical-Dissertations-and-Exp__8695
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Falconer, William
+    alias: Thorn, Theophilus
+    birthdate: 1732
+    deathdate: 1769
+    gutenberg_agent_id: '26472'
+    url: http://www.gutenberg.org/2009/agents/26472
+  - agent_name: Blair, Robert
+    birthdate: 1699
+    deathdate: 1746
+    gutenberg_agent_id: '40521'
+    url: http://www.gutenberg.org/2009/agents/40521
+  - agent_name: Beattie, James
+    alias: Beatie, Dr.
+    birthdate: 1735
+    deathdate: 1803
+    gutenberg_agent_id: '32553'
+    url: http://www.gutenberg.org/2009/agents/32553
+    wikipedia: http://en.wikipedia.org/wiki/James_Beattie_(writer)
+  editor:
+    agent_name: Gilfillan, George
+    birthdate: 1813
+    deathdate: 1878
+    gutenberg_agent_id: '3126'
+    url: http://www.gutenberg.org/2009/agents/3126
+    wikipedia: http://en.wikipedia.org/wiki/George_Gilfillan
+description: ''
+gutenberg_issued: '2005-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8695'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English poetry'
+- GITenberg
+title: "The Poetical Works of Beattie, Blair, and Falconer\r\nWith Lives, Critical\
+  \ Dissertations, and Explanatory Notes"
+url: http://www.gutenberg.org/ebooks/8695
