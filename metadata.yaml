@@ -1,5 +1,8 @@
 _repo: The-Poetical-Works-of-Beattie-Blair-and-Falconer--13-With-Lives-Critical-Dissertations-and-Exp__8695
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Falconer, William
@@ -28,6 +31,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3126
     wikipedia: http://en.wikipedia.org/wiki/George_Gilfillan
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8695#The-Poetical-Works-of-Beattie-Blair-and-Falconer--13-With-Lives-Critical-Dissertations-and-Exp_
 gutenberg_issued: '2005-08-01'
 gutenberg_type: Text
 identifiers:
